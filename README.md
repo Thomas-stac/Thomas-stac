@@ -10,7 +10,7 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
 
 <h2>👨‍💻 Projects Demonstrating Enterprise Transformation:</h2>
 
-- **Repair Task Classification System – St. Luc Hospital**
+- **Repair Task Classification System – Hospital**
   - [Python-based scoring system for repair prioritization](https://github.com/Thomas-stac/Task-classification-/tree/main)  
     *Developed an automated system to prioritize repair tasks, optimizing resource allocation and enhancing operational efficiency.*
 
