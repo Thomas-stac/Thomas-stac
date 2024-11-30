@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects Demonstrating Enterprise Transformation:</h2>
 
 - **Repair Task Classification System – St. Luc Hospital**
-  - [Python-based scoring system for repair prioritization](#)  
+  - [Python-based scoring system for repair prioritization](https://github.com/Thomas-stac/Task-classification-/tree/main)  
     *Developed an automated system to prioritize repair tasks, optimizing resource allocation and enhancing operational efficiency.*
 
 - **Meta-Analysis of Success Factors (Master Thesis)**
