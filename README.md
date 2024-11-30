@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thomas!<br/>Data Enthusiast</a>,Business Engineer</a>, Strategic Thinker</a></h1>
+<h1>Hi, I'm Thomas!<br/>Data enthusiast</a>,Business engineer</a>, Strategic thinker</a></h1>
 
 <h2>📖 Introduction</h2>
 
