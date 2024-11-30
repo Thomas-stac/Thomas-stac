@@ -15,7 +15,7 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
     *Developed an automated system to prioritize repair tasks, optimizing resource allocation and enhancing operational efficiency.*
 
 - **Titanic Data Analysis & Classification - School project**
-  - [Predictive modeling and survival analysis](#)  
+  - [Predictive modeling and survival analysis](https://github.com/Thomas-stac/Titanic-data-analysis)  
     *Performed exploratory data analysis and built a Decision Tree Classifier to predict passenger survival on the Titanic. This included data cleaning, feature engineering, and visualization to uncover insights and optimize model performance.*
 
 - **Development of VISA Integration Strategy**
