@@ -14,9 +14,9 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
   - [Python-based scoring system for repair prioritization](https://github.com/Thomas-stac/Task-classification-/tree/main)  
     *Developed an automated system to prioritize repair tasks, optimizing resource allocation and enhancing operational efficiency.*
 
-- **Meta-Analysis of Success Factors (Master Thesis)**
-  - [Advanced multivariate statistical analysis](#)  
-    *Conducted a comprehensive analysis to identify key factors influencing educational outcomes, providing actionable insights for stakeholders.*
+- **Titanic Data Analysis & Classification (School project)**
+  - [Predictive modeling and survival analysis](#)  
+    *Performed exploratory data analysis and built a Decision Tree Classifier to predict passenger survival on the Titanic. This included data cleaning, feature engineering, and visualization to uncover insights and optimize model performance.*
 
 - **Development of VISA Integration Strategy**
   - [Second-place winner in Belgium VISA business game](#)  
