@@ -10,11 +10,11 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
 
 <h2>👨‍💻 Projects Demonstrating Enterprise Transformation:</h2>
 
-- **Repair Task Classification System – Hospital**
+- **Repair Task Classification System – Hospital internship**
   - [Python-based scoring system for repair prioritization](https://github.com/Thomas-stac/Task-classification-/tree/main)  
     *Developed an automated system to prioritize repair tasks, optimizing resource allocation and enhancing operational efficiency.*
 
-- **Titanic Data Analysis & Classification (School project)**
+- **Titanic Data Analysis & Classification - School project**
   - [Predictive modeling and survival analysis](#)  
     *Performed exploratory data analysis and built a Decision Tree Classifier to predict passenger survival on the Titanic. This included data cleaning, feature engineering, and visualization to uncover insights and optimize model performance.*
 
