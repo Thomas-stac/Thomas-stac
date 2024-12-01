@@ -25,6 +25,10 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
 - **Analyzing Factors Influencing Football Player Performance - Personal project**
   - [Machine learning-based insights for professional athletes](https://github.com/Thomas-stac/Factors-Influencing-Football-Player-Performance)  
     *Developed machine learning models to analyze the factors impacting the performance of professional football players. Delivered actionable insights through feature importance analysis and predictive modeling to support data-driven decisions for player development and team optimization.*
+
+- **Urban Sound Classification - Unfinished personal project**
+  - [AI-driven sound analysis](https://github.com/Thomas-stac/Urban-Sound-Classification/tree/main)  
+    *Developed machine learning models to analyze the factors impacting the performance of professional football players. Delivered actionable insights through feature importance analysis and predictive modeling to support data-driven decisions for player development and team optimization.*
     
 <h2>🛠️ Technical Proficiencies:</h2>
 
