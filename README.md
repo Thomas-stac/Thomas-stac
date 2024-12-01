@@ -23,7 +23,7 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
     *Developed a convolutional neural network (CNN) to classify images of cats and dogs, enhancing operational efficiency for animal shelters. Integrated transfer learning techniques and data augmentation to improve accuracy and scalability*
 
 - **Analyzing Factors Influencing Football Player Performance - Personal project**
-  - [Machine learning-based insights for professional athletes](https://github.com/Thomas-stac/Pet-Classification)  
+  - [Machine learning-based insights for professional athletes]([https://github.com/Thomas-stac/Pet-Classification](https://github.com/Thomas-stac/Factors-Influencing-Football-Player-Performance))  
     *Developed machine learning models to analyze the factors impacting the performance of professional football players. Delivered actionable insights through feature importance analysis and predictive modeling to support data-driven decisions for player development and team optimization.*
     
 <h2>🛠️ Technical Proficiencies:</h2>
