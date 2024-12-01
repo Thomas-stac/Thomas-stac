@@ -32,10 +32,10 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
     
 <h2>🛠️ Technical Proficiencies:</h2>
 
-- **Programming Languages**: Python, R, SQL, Django
-- **Data Analysis Tools**: Stata, Excel
+- **Programming Languages**: Python, R, SQL, Django, HTML
+- **Data Analysis Tools**: Stata, Excel, Pandas, NumpPy, Scikit-learn, Tensor flow
 - **Enterprise Solutions**: OpenBravo, Microsoft Office Suite
-- **Languages**: French (C2), Arabic (C2), English (C1), Dutch (B1-B2), Spanish (A2)
+- **Languages**: French (C2), Arameen (C2), English (C1), Dutch (B1-B2), Spanish (A2)
 
 <h2>🤝 Let's Connect:</h2>
 
