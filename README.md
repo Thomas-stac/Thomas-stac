@@ -18,9 +18,9 @@ Staizen's values, such as continuous improvement, adaptability, and collaboratio
   - [Predictive modeling and survival analysis](https://github.com/Thomas-stac/Titanic-data-analysis)  
     *Performed exploratory data analysis and built a Decision Tree Classifier to predict passenger survival on the Titanic. This included data cleaning, feature engineering, and visualization to uncover insights and optimize model performance.*
 
-- **Development of VISA Integration Strategy**
-  - [Second-place winner in Belgium VISA business game](#)  
-    *Designed a strategic plan for integrating VISA services into the Belgian market, focusing on digital transformation and customer engagement.*
+- **Pet Classification Using Deep Learning**
+  - [Deep learning-based animal classification for shelters](https://github.com/Thomas-stac/Pet-Classification)  
+    *Developed a convolutional neural network (CNN) to classify images of cats and dogs, enhancing operational efficiency for animal shelters. Integrated transfer learning techniques and data augmentation to improve accuracy and scalability*
 
 <h2>🛠️ Technical Proficiencies:</h2>
 
