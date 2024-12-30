@@ -2,9 +2,7 @@
 
 <h2>📖 Introduction</h2>
 
-Welcome to my GitHub portfolio! I created this repository to share the various data and analytics projects I have undertaken throughout my career. This platform serves as a way to effectively showcase my skills and projects to Staizen, as I am eager to contribute to their mission of enabling enterprise transformation through innovative solutions.
-
-Staizen's values, such as continuous improvement, adaptability, and collaboration, deeply resonate with me. Inspired by these principles, I have curated this portfolio to highlight my dedication, technical expertise, and alignment with their vision. My goal is to demonstrate my enthusiasm and readiness to join Staizen as a junior, contributing to their efforts to make organizations 1% better every day.
+Welcome to my GitHub portfolio! I created this repository to share the various data and analytics projects I have undertaken throughout my career. This platform serves as a way to effectively showcase my skills.
 
 ---
 
