@@ -20,20 +20,12 @@ Welcome to my GitHub portfolio! I created this repository to share the various d
   - [Deep learning-based animal classification for shelters](https://github.com/Thomas-stac/Pet-Classification)  
     *Developed a convolutional neural network (CNN) to classify images of cats and dogs, enhancing operational efficiency for animal shelters. Integrated transfer learning techniques and data augmentation to improve accuracy and scalability*
 
-- **Analyzing factors influencing football player performance - Personal project**
-  - [Machine learning-based insights for professional athletes](https://github.com/Thomas-stac/Factors-Influencing-Football-Player-Performance)  
-    *Developed machine learning models to analyze the factors impacting the performance of professional football players. Delivered actionable insights through feature importance analysis and predictive modeling to support data-driven decisions for player development and team optimization.*
-
-- **Urban sound classification - Unfinished personal project**
-  - [AI-driven sound analysis](https://github.com/Thomas-stac/Urban-Sound-Classification/tree/main)  
-    *This unfinished personal project focuses on developing a deep learning-based system for classifying urban sounds. Significant progress has been made using advanced audio preprocessing and CNN models, despite its complexity. The project aims for high accuracy and scalability.*
     
 <h2>🛠️ Technical proficiencies:</h2>
 
 - **Programming languages**: Python, R, SQL, Django, HTML
-- **Data analysis tools**: Stata, Excel, Pandas, NumpPy, Scikit-learn, Tensor flow
-- **Enterprise solutions**: OpenBravo, Microsoft Office Suite
-- **Languages**: French (C2), Arameen (C2), English (C1), Dutch (B1-B2), Spanish (A2)
+- **Data analysis tools**: Stata, Excel, Pandas, NumpPy, Scikit-learn
+- **Languages**: French (Native), Aramaic (Native), English (C1), Dutch (B1-B2), Spanish (A2)
 
 <h2>🤝 Let's connect:</h2>
 
