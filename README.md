@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I created this repository to share the various d
     *Analyzed the Kaggle Covid-19 dataset to explore patterns, trends, and correlations in pandemic data. Performed preprocessing, visualization, and statistical analysis to derive insights. Implemented machine learning models to predict infection trends and evaluate classification performance.*
 
 - **Credit Card Fraud Detection – Kaggle competitions**
-  - [Machine learning model for fraud detection](**)  
+  - [Machine learning model for fraud detection](https://github.com/Thomas-stac/Fraud-credit-card)  
     *Analyzed the highly imbalanced Kaggle Credit Card Fraud dataset to identify fraudulent transactions. Applied extensive data preprocessing, feature scaling, and model evaluation techniques to improve performance. Implemented the SMOTE (Synthetic Minority Oversampling Technique) method to address class imbalance. Developed and compared multiple classification algorithms (including Logistic regression, Random forest, and XGBoost*
 
 
